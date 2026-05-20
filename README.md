@@ -1,5 +1,5 @@
 # mnist47266111
-UTokyo mnist homework.
+UTokyo mnist homework by DU RUOHENG 47266111.
 
 This repository contains a minimal Denoising Diffusion Probabilistic Model
 (DDPM) experiment on the MNIST handwritten digit dataset.
